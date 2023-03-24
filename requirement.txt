@@ -1,0 +1,4 @@
+
+Pillow==9.4.0
+python-pptx==0.6.21
+
